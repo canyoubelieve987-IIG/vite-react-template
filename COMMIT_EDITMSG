@@ -1,0 +1,8 @@
+Address unexpected error message on app launch
+
+Fix an uncaught exception that occurred during app initialization, preventing the main UI from rendering.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: ac0206b4-183c-480e-9719-df3481245904
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/ae7278db-e40a-446e-aaca-37854b27e15b/ac0206b4-183c-480e-9719-df3481245904/TSSbBt2
